@@ -4,3 +4,5 @@ export { playlistRoute } from "./playlist";
 export { artistRoute } from "./artist";
 export { playedMusicRoute } from "./recentMusic";
 export { genreRouter } from "./genre";
+
+// Path: Smooze-App-Backend/src/routes/users.ts
